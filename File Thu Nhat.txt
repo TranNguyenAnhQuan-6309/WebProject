@@ -6,8 +6,7 @@ Noi dung may tinh 1
 
 Noi dung may tinh 2
 
-<<<<<<< HEAD
 xong roi
-=======
+
 Ok
->>>>>>> 20eba150c43f37ad53b2ad4646dc7533899a8267
+
