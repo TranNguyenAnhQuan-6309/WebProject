@@ -5,3 +5,6 @@ Ket noi file thu ba
 Xoa ket noi voi file thu ba
 
 Them noi dung file 3
+
+Them noi dung file 2
+
