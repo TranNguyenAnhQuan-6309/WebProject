@@ -5,3 +5,5 @@ Ket noi toi file thu hai
 Noi dung may tinh 1
 
 Noi dung may tinh 2
+
+Ok
