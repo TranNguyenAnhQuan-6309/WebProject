@@ -11,3 +11,5 @@ xong roi
 Ok
 
 Noi dung hoc GIT GUI
+
+Noi dung hoc GIT GUI 2
