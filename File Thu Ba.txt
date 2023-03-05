@@ -1,3 +1,6 @@
 Noi dung file 3
 
 Noi dung moi
+
+Noi dung duoc them
+
